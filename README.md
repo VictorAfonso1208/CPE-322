@@ -24,4 +24,4 @@ I hope to have a concentration in *Artificial Intelligence*
 
 [Wiggle your mouse around. Seizure Warning!](http://www.staggeringbeauty.com)
 
-![Here is an image of an orc from Warhammer Fantasy](image.jpg)
+![Here is an image of an orc from Warhammer Fantasy](Choppa_concept_art.webp)
