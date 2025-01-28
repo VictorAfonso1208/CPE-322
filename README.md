@@ -18,7 +18,9 @@ I hope to have a concentration in *Artificial Intelligence*
 - Reading
 - Drawing
 
-'code'
+`while hunger = 0:
+	eatfood()
+	hunger += 1`
 
 ---
 
