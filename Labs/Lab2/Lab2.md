@@ -4,6 +4,6 @@ This lab's purpose is to serve as an introduction to the unix commands necessary
 By connecting to a raspberry pi remotely and running commands in its terminal, I was able to acquire the screenshots necessary to detail my results.
 
 ### Hostname
-(hostname.png)
+!(hostname.png)
 This command gives the name of the device being used. I kept it to "raspberry pi."
 
