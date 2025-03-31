@@ -113,3 +113,6 @@ This command pings my local network and displays information such as packets sen
 ![netstat2](https://github.com/VictorAfonso1208/CPE-322/blob/main/Labs/Lab2/Lab2Images/netstat2.png)
 
 This command displays various network related information such as network connections, routing tables, interface statistics
+
+## Conclusion
+The purpose of this lab was to learn basic unix commands in the raspberry pi's linux system to be used as a reference for future material.
