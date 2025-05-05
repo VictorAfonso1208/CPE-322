@@ -3,8 +3,8 @@
 The purpose of this lab is to learn the usage of PahoMQTT and how to publish information from terminals and suscribe to other terminals.
 
 To begin this lab, I had to first install mosquitto and pahomqtt onto my laptop.
-![mosq](https://github.com/VictorAfonso1208/CPE-322/tree/main/Labs/Lab5/Lab5%20Images)
-![paho](https://github.com/VictorAfonso1208/CPE-322/tree/main/Labs/Lab5/Lab5%20Images)
+![mosq](https://github.com/VictorAfonso1208/CPE-322/blob/main/Labs/Lab5/Lab5%20Images/mosquitto%20installed.png)
+![paho](https://github.com/VictorAfonso1208/CPE-322/blob/main/Labs/Lab5/Lab5%20Images/paho-mqtt%20installs.png)
 
 I then updated my copied Kevin Lu IOT directory using git pull:
 ![pull](https://github.com/VictorAfonso1208/CPE-322/blob/main/Labs/Lab5/Lab5%20Images/git%20pull.png)
